@@ -1,0 +1,22 @@
+{
+    "name": "ProbSolver",
+    "description": "To solve search engine.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "/images/favicon1.png",
+            "32": "/images/favicon2.png",
+            "48": "/images/favicon3.png",
+            "128": "/images/favicon4.png"
+        }
+    },
+    "icons": {
+        "16": "/images/favicon1.png",
+        "32": "/images/favicon2.png",
+        "48": "/images/favicon3.png",
+        "128": "/images/favicon4.png"
+    }
+}
